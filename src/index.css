@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+:root{
+  --heading-font: 'Playfair Display', serif;
+}
+
+/* optional utility if you want a tailwind class */
+.heading-serif { font-family: var(--heading-font); }

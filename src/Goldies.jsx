@@ -4,7 +4,6 @@ function Goldies() {
     return (
         <>
             <h1 className="font-bold text-3xl mt-10 mb-20 text-center">GOLDIES</h1>
-
             <div className="flex justify-around flex-wrap items-center md:px-40 px-6 gap-4">
                 <img src="/images/goldies/_1.jpg" className="h-70 w-80" />
                 <img src="/images/goldies/.jpg" className="h-70 w-80" />
